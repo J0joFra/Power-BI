@@ -43,17 +43,11 @@ Le visualizzazioni dei dati in questo progetto includono:
 
 Queste visualizzazioni aiutano a comprendere le preferenze di ascolto, identificare artisti e brani preferiti, e osservare come cambiano le abitudini di ascolto nel tempo.
 
-## Contributi
-I contributi sono benvenuti! Se hai suggerimenti per miglioramenti o funzionalità aggiuntive, crea una pull request o apri un problema.
-
-## Licenza
-Questo progetto è concesso in licenza sotto la Licenza MIT - consulta il file LICENSE.md per i dettagli.
-
 ## Informazioni di Contatto
 Per domande o supporto, contatta:
 
-- **Nome**: [Il Tuo Nome]
-- **Email**: [La Tua Email]
+- **Nome**: *Joaquim*
+- **Email**: *jofrancalanci@gmail.com*
 - **GitHub**: [Il Tuo Profilo GitHub]
 
 
