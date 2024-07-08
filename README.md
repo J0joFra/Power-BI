@@ -20,6 +20,7 @@ Per utilizzare questo progetto, segui questi passaggi:
 Il progetto consiste nel seguente file:
 
 - `Spotify Analysis.pbix`: Il file Power BI contenente le visualizzazioni dei dati.
+- `Spotify Analysis.mp4`: Il file Mp4 contenente il video di presentazione del progetto.
 
 ## Fonte dei Dati
 I dati utilizzati in questo progetto sono stati ottenuti scaricando i dati personali di Spotify. Questo tipicamente include:
