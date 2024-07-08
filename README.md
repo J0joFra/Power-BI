@@ -48,6 +48,6 @@ Per domande o supporto, contatta:
 
 - **Nome**: *Joaquim*
 - **Email**: *jofrancalanci@gmail.com*
-- **GitHub**: [Il Tuo Profilo GitHub]
+- **GitHub**: *https://github.com/J0joFra*
 
 
